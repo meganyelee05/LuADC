@@ -57,7 +57,7 @@
 #include "driverlib.h"
 #include "gpio.h"
 #include "intrinsics.h"
-#include "msp430fr5969.h"
+#include "msp430fr5969.h" //try changing to msp430fr6043.h (hopefully nothing breaks)
 #include "timer_a.h"
 
 void main (void)
